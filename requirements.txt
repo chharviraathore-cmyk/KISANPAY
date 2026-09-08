@@ -1,7 +1,6 @@
 streamlit
-supabase
-google-generativeai
 pandas
-python-dotenv
-streamlit-mic-recorder
+requests
+supabase
 openai
+gTTS
