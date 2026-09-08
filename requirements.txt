@@ -5,3 +5,4 @@ supabase
 openai
 gTTS
 python-dotenv
+streamlit-mic-recorder
