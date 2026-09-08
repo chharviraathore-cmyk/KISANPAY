@@ -6,3 +6,4 @@ openai
 gTTS
 python-dotenv
 streamlit-mic-recorder
+groq
